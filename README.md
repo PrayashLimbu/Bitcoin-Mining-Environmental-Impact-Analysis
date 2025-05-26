@@ -28,9 +28,7 @@ Oil (BTCOIL_*): Oil-based energy consumption and emissions
 
 Gas (BTCGAS_*): Natural gas-based energy consumption and emissions
 
-📄 Research Paper
-Title: "Bitcoin Mining and its Contribution to Rising Global Temperatures"
-Authors: Prayash Limbu*, Jagat Singh* (Chandigarh University)
+
 
 Abstract
 This research employs Structural Equation Modeling (SEM) to analyze the interconnectedness between Bitcoin mining, CO₂ emissions, and global temperature anomalies. The study reveals a concerning positive relationship between Bitcoin emissions and global temperature change, highlighting Bitcoin's potential contribution to climate change.
